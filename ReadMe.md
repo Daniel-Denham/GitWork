@@ -1,1 +1,1 @@
-Some practise with using git
+Some practise with using git including branches
